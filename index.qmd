@@ -1,0 +1,41 @@
+---
+title: "Evangelia Berdou"
+subtitle: "Senior MEL Expert | Systems & Learning | Capacity Building"
+image: "dash-web-2.jpg"
+about: 
+  template: broadside
+---
+
+## Expertise
+
+Substantial expertise **(\> 15 years)** in **MEL** and applied research in international development, designing, implementing, leading, managing and quality assuring the successful delivery of a significant number of studies and evaluations for the British Government **(FCDO, Defra, DFID**), **WHO, UNICEF, UNFPA** and the **European Commission**.
+Noted for creating creating **engaging products**, **services** that cater to the **immediate** and **long-term learning needs** of **diverse** **stakeholders** including through the responsible use of **AI**.
+
+## Sectors
+
+**Multisectoral experience:** led and delivered studies and MEL for **environmental conservation/restoration**, in support of **livelihoods** and **poverty reduction**, **health** (incl. **SRHR** and implementation research), **inclusive governance**, **citizen voice**, **transparency and accountability** (esp. for improved access to public services), **evidence uptake** and knowledge to policy translation, **ICTs and human development**, **capacity building,** peer-to- peer collaboration, open source and open data.
+Evangelia has a strong track record of designing and implementing **integrated monitoring systems** and learning processes that **streamline analyses** and create opportunities for **learning** for complex, multi-country portfolio programmes.
+
+## Methodologies
+
+Experienced in the design and application of a range of M&E approaches including **theory-based** methods, **results frameworks (inc. logframes),** **outcome harvesting and mapping**, **portfolio syntheses,** and **most significant change**.
+Evangelia has applied these approaches in the context of **realist, developmental**, **utilisation-focused**, **process** and **impact** **evaluations**.
+She is a strong proponent of **mixed-methods** research and designs that leverage **passive** and **routine programme data** and vetted **secondary information sources**.
+She is especially proficient in **qualitative data** collection and analysis (individual semi-structured interviews, focus group discussions, and ethnographic observations), as well as in **survey design** and **quantitative analysis** (using descriptive, inferential, multivariate statistics).
+One of her strengths is the ability to **combine data science techniques** (e.g., text analysis, automating data cleaning and wrangling and social media analytics) with **information visualisation**, informed by social science and MEL and guided by **design thinking** and a deep understanding of work requirements and of aid professionals.
+
+## Technical Skills
+
+-   **QDAS**: MAXQDA, NVivo, Atlas Business Intelligence: Microsoft Power BI (advanced) and Tableau (intermediate)
+-   **Graphic Design:** Adobe InDesign and Illustrator (intermediate)
+-   **Data science:** R (advanced), Python (beginner)
+-   **Generative AI**:
+    -   **Prompt engineering** for ChatGPT and other LLMs;
+    -   Design and deployment of **custom AI agents** using ChatGPT and open models;
+    -   **Retrieval-Augmented Generation (RAG)** pipeline design using local LLMs (e.g. via Ollama)
+    -   Proficient in **Midjourney** for AI-generated image creation and iteration,
+    -   **Ethical guidance** and **training** content development for responsible **AI** use in MEL.
+
+## Country Experience
+
+Egypt, Finland, Greece, India, Norway, Spain, Portugal, Italy, Kenya, Malaysia, Tanzania,  UAE, Uganda, UK, Zambia.

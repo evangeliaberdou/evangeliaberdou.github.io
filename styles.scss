@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+$theme-orange: #F4A226;
+$theme-mint: #AFDCC7; // <- Missing semicolon was added here
+$theme-darkpink:#8C1844;
+
+/* Colors */
+$body-bg: #FFFFFF;
+body {
+  color: #333;
+
+  strong,
+  b,
+  span[style*="font-weight: bold"] {
+    color: #FEC003;
+  }
+}
+
+$link-color: $theme-mint;
+
+/* Fonts */
+$font-family-sans-serif: "Quattrocento Sans ", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+  color: $theme-darkpink;
+}
+
+
+.navbar {
+  background-color: #315373;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: white;
+}
+
+.navbar svg.bi {
+  color: white !important;
+  fill: white !important;
+}
+

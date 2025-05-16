@@ -1,0 +1,39 @@
+---
+title: "AI at the rescue: Creating a list of acronyms"
+description: "Developing a Word VBA script to generate a list of acronyms "
+author: "Evangelia"
+date: "5/23/2021"
+image: "robot-tools-1.jpg"
+categories:
+  - Scripts
+  - Word
+  - AI
+---
+
+There are good reasons to expect that AI will transform MEL practice - and work in general).
+Whilst waiting for the hype to settle, it's worth paying attention to the small but meaningful improvements AI can bring about in our everyday work.
+
+Take, for example, the task of compiling a list of acronyms for a lengthy proposal or report.
+It’s a tedious job, often left to the last minute, and rarely appreciated.
+
+With ChatGPT’s help I created a VBA Macro for Microsoft Word, which:
+
+a\) Generates a list of acronyms with page numbers for where each acronym first appears;
+
+b\) Notes the number of times the acronym is mentioned.
+
+The resulting acronym list is copied in a separate Word doc for further processing.
+
+### Instructions
+
+-   Copy the VBA [macro](../assets/Code-VBA-Acronyms.txt).
+-   Make sure that your Word document is open and editable.
+-   Open the Visual Basic Editor (tip: type in ‘vba’ in the search bar). With the VBA editor open
+    -   Go to Insert \> Module.
+    -   Once the new module window has appeared copy the VBA code included in the next section (everything under Details).
+    -   Click outside the module editing window and go to Run \> Run Macro
+    -   This will open another window with the macro ExtractAcronymsWithPages. Click Run.
+    -   If all goes to plan, Word will create a new doc with the acronym list.
+    -   Note that there is an option in the VBA that allows you to exclude certain words from the acronym search (\`ignoreList = Array(" "). The word you wish to exclude should be placed in between the double quotes.
+
+I have used the Macro successfully in Word on Windows and on the Mac.

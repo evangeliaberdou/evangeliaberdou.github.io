@@ -1,0 +1,96 @@
+Sub ExtractAcronymsWithPages()
+    Dim doc As Document
+    Dim word As Range
+    Dim acronyms As New Collection  ' Store unique acronyms
+    Dim pages As New Collection  ' Store first occurrence page numbers
+    Dim counts() As Integer ' Dynamic array for counting occurrences
+    Dim text As String
+    Dim pageNum As Integer
+    Dim i As Integer
+    Dim found As Boolean
+
+    ' Ensure the document is open and editable
+    If Documents.Count = 0 Then
+        MsgBox "No document is open. Please open a document and try again.", vbExclamation, "Error"
+        Exit Sub
+    End If
+
+    Set doc = ActiveDocument
+
+    ' Check if document is protected
+    If doc.ProtectionType <> wdNoProtection Then
+        MsgBox "The document is protected and cannot be processed. Please unprotect the document and try again.", vbExclamation, "Error"
+        Exit Sub
+    End If
+
+    ' Define acronyms to ignore
+    Dim ignoreList As Variant
+    ignoreList = Array("NIRAS") ' Add more acronyms to ignore
+
+    ' Initialize the counts array (empty)
+    ReDim counts(1 To 1)
+
+    ' Loop through each word in the document
+    For Each word In doc.Words
+        text = Trim(word.Text) ' Remove extra spaces
+        
+        ' Check if the word is an acronym (all uppercase, length > 1, no punctuation)
+        If text Like "[A-Z][A-Z]*" And Len(text) > 1 Then
+            ' Ignore words in the ignore list
+            If Not IsInArray(text, ignoreList) Then
+                found = False
+
+                ' Check if acronym is already stored
+                On Error Resume Next
+                For i = 1 To acronyms.Count
+                    If acronyms(i) = text Then
+                        found = True
+                        counts(i) = counts(i) + 1 ' Increase count
+                        Exit For
+                    End If
+                Next i
+                On Error GoTo 0
+
+                ' If acronym is new, add it with an initial count of 1
+                If Not found Then
+                    acronyms.Add text
+                    pageNum = word.Information(wdActiveEndPageNumber)
+                    pages.Add pageNum
+
+                    ' Resize the counts array and add count for the new acronym
+                    ReDim Preserve counts(1 To acronyms.Count)
+                    counts(acronyms.Count) = 1
+                End If
+            End If
+        End If
+    Next word
+
+    ' Generate the list of acronyms with page numbers
+    Dim acronymList As String
+    acronymList = "List of Acronyms with First Occurrence Page Number and Count:" & vbCrLf & vbCrLf
+    
+    For i = 1 To acronyms.Count
+        acronymList = acronymList & acronyms(i) & " (x" & counts(i) & ") - First on Page " & pages(i) & vbCrLf
+    Next i
+
+    ' Create a new document to display the acronyms
+    If acronyms.Count > 0 Then
+        Dim newDoc As Document
+        Set newDoc = Documents.Add
+        newDoc.Range.Text = acronymList
+    Else
+        MsgBox "No acronyms found.", vbInformation, "No Results"
+    End If
+End Sub
+
+' Function to check if a value exists in an array
+Function IsInArray(value As String, arr As Variant) As Boolean
+    Dim i As Integer
+    For i = LBound(arr) To UBound(arr)
+        If arr(i) = value Then
+            IsInArray = True
+            Exit Function
+        End If
+    Next i
+    IsInArray = False
+End Function

@@ -1,0 +1,13 @@
+With ChatGPT’s help I created  a VBA Macro that generates a list of acronyms with first occurrence page number and count for any Word doc. The acronym list is copied in a separate Word doc. 
+
+ Here are the steps to use the Macro:
+
+- Make sure that the doc you want to generate the acronyms list for is open and editable.
+- Open the Visual Basic Editor (tip: type in ‘vba’ in the search bar).
+    - Go to Insert > Module.
+    - Once the new module window has appeared copy the VBA code from the attached txt.
+    - Click outside the module editing window and go to Run > Run Macro
+    - This will open another window with the macro ExtractAcronymsWithPages. Click Run.
+    - If all goes to plan, Word will create a new doc with the acronym list.
+
+Note that there is an option in the macro code that allows you to exclude certain text from the acronym search. For example, I have chosen to exclude ‘NIRAS’ from the list of my acronyms.
