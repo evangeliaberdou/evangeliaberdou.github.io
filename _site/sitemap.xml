@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://evangeliaberdou.github.io/index.html</loc>
-    <lastmod>2025-05-15T13:51:00.713Z</lastmod>
-  </url>
-  <url>
-    <loc>https://evangeliaberdou.github.io/Resources.html</loc>
-    <lastmod>2025-05-14T12:23:07.247Z</lastmod>
-  </url>
-  <url>
     <loc>https://evangeliaberdou.github.io/blog/index.html</loc>
     <lastmod>2025-05-16T15:42:44.555Z</lastmod>
   </url>
   <url>
-    <loc>https://evangeliaberdou.github.io/blog/first-post/index.html</loc>
-    <lastmod>2025-05-16T15:37:07.107Z</lastmod>
+    <loc>https://evangeliaberdou.github.io/index.html</loc>
+    <lastmod>2025-05-15T13:51:00.713Z</lastmod>
   </url>
   <url>
-    <loc>https://evangeliaberdou.github.io/blog/third-post/index.html</loc>
-    <lastmod>2025-05-13T08:55:19.190Z</lastmod>
-  </url>
-  <url>
-    <loc>https://evangeliaberdou.github.io/blog/second-post/index.html</loc>
-    <lastmod>2025-05-13T08:55:19.189Z</lastmod>
-  </url>
-  <url>
-    <loc>https://evangeliaberdou.github.io/blog/posts/index.html</loc>
-    <lastmod>2025-05-16T15:37:07.107Z</lastmod>
+    <loc>https://evangeliaberdou.github.io/projects/index.html</loc>
+    <lastmod>2025-05-13T08:55:19.195Z</lastmod>
   </url>
   <url>
     <loc>https://evangeliaberdou.github.io/blog/posts/firstpost.html</loc>
