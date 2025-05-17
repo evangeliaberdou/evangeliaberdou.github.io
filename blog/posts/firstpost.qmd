@@ -2,7 +2,7 @@
 title: "AI at the rescue: Creating a list of acronyms"
 description: "Developing a Word VBA script to generate a list of acronyms "
 author: "Evangelia"
-date: "5/17/2021"
+date: "5/17/2025"
 image: "robot-tools-1.jpg"
 categories:
   - Scripts
@@ -12,7 +12,7 @@ categories:
 
 [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding), is an emerging trend in AI-supported software development, which has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals, compared to other AI applications.
 It’s a simple but powerful idea: you describe what you want to solve in plain language, and the AI writes the code to make it happen.
-I have been experimenting with vibe coding for data analytics and interactive reporting, and for making everyday tasks easier.
+I have been experimenting with vibe coding for data analytics and interactive reporting, and for making evercyday tasks easier.
 
 One example?
 Creating acronym lists for long proposals or reports.
