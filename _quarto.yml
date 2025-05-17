@@ -9,18 +9,10 @@ website:
 
   navbar:
     title: Evangelia Berdou
-    left:
+    right:
       - text: Blog
         icon: lightning-charge-fill
         href: blog/index.qmd
-    tools:
-      - icon: linkedin
-        href: https://linkedin.com/in/evangeliaberdou
-      - icon: download
-        text: Download CV
-        href: Berdou_CV.pdf
-      - icon: kanban
-        text: Power BI
 
 format:
   html:

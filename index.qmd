@@ -3,7 +3,15 @@ title: "Evangelia Berdou"
 subtitle: "Senior MEL Expert | Systems & Learning | Capacity Building"
 image: "dash-web-2.jpg"
 about: 
-  template: broadside
+  template: trestles
+  links:
+    - icon: linkedin
+      href: https://linkedin.com/in/evangeliaberdou
+    - icon: download
+      text: CV
+      href: Berdou_CV.pdf
+    - icon: kanban
+      text: Power BI
 ---
 
 ## Expertise
