@@ -2,7 +2,7 @@
 title: "AI at the rescue: Creating a list of acronyms"
 description: "Developing a Word VBA script to generate a list of acronyms "
 author: "Evangelia"
-date: "5/23/2021"
+date: "5/17/2021"
 image: "robot-tools-1.jpg"
 categories:
   - Scripts
