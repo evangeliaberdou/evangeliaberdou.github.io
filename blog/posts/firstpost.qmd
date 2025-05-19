@@ -1,5 +1,5 @@
 ---
-title: "AI at the rescue: Creating a list of acronyms"
+title: "AI to the rescue: Creating a list of acronyms"
 description: "Developing a Word VBA script to generate a list of acronyms "
 author: "Evangelia"
 date: "5/17/2025"
