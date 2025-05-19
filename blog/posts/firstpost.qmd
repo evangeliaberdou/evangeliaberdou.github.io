@@ -12,7 +12,7 @@ categories:
 
 <a href="https://en.wikipedia.org/wiki/Vibe_coding" target="_blank"> Vibe coding </a> is an emerging trend in AI-supported software development, which has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals, compared to other AI applications.
 It’s a simple but powerful idea: you describe what you want to solve in plain language, and the AI writes the code to make it happen.
-I have been experimenting with vibe coding for data analytics and interactive reporting, and for making evercyday tasks easier.
+I have been experimenting with vibe coding for data analytics and interactive reporting, and for making everyday tasks easier.
 
 One example?
 Creating acronym lists for long proposals or reports.
