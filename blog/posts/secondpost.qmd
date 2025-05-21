@@ -9,6 +9,7 @@ categories:
   - design
   - research outputs
   - methodology/ies
+  - needs assessment
 ---
 
 How do you synthesize and communicate research findings in a way that is **evidence-based,** **nuaced** and **emotionally resonant?** In collaboration with [Claudia Abreu-Lopes](https://www.linkedin.com/in/claudia-abreu-lopes-219344a/) and [Aparna Mukherjee](https://www.linkedin.com/in/aparna-mukherjee-56072740/) from the [International Institute for Global Health](https://unu.edu/iigh), I turned to an unlikely source for inspiration for a **study on gender-based violence**: **user experience (UX) design**.
@@ -25,9 +26,9 @@ The report has been well received from Malaysian organisations working on women'
 
 This approach does more than present findings in a visually engaging format.
 It can create a **reference point** for a range of actors—civil society, health providers, policy teams—who might otherwise struggle to **conceptualise whom the system is meant to serve**.
-Additionally, personas and journeys can become a **touchstone** for **checking assumptions**, reflecting/debating/**validating priorities,** and understanding **different** **viewpoints**.
-In this sense, they can **complement** more traditional tools like **theories of change** (ToC) by grounding them in the lived experience of real people**.** Like ToCs, their value increases when **revisited** at key moments throughout a programme’s lifecycle.
+Additionally, personas and journeys can become a **touchstone** for **checking assumptions**, reflecting/debating/**validating priorities,** and understanding **differing** **viewpoints**.
+In this sense, they can **complement** more traditional tools like **theories of change** (ToC) by grounding them in the lived experience of real people**.** Like ToC, their value increases when **revisited** at key moments throughout a programme’s lifecycle.
 
 There’s real potential for this approach within **MEL** in international development.
-For example, **personas and journeys** can **reframe** how we conduct **needs assessments—**which often inform early programme design or evaluation but are rarely revisited.
-In a field that constantly wrestles with complexity, nuance and communication, **blending storytelling with rigorous evidence in a reusable format** can have a powerful impact—for both internal and external audiences.
+For example, personas and journey maps can **reframe** how we conduct **needs assessments—**which often inform early stages of programme design or evaluation but are rarely revisited.
+In a field that constantly wrestles with complexity, nuance and communication, **blending storytelling with rigorous evidence in a reusable format** can have a powerful impact for internal and external audiences alike.
