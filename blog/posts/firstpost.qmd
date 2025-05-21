@@ -10,12 +10,12 @@ categories:
   - AI
 ---
 
-<a href="https://en.wikipedia.org/wiki/Vibe_coding" target="_blank"> Vibe coding </a> is an emerging trend in AI-supported software development, which has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals, compared to other AI applications.
+<a href="https://en.wikipedia.org/wiki/Vibe_coding" target="_blank"> Vibe coding </a> is an emerging trend in AI-supported software development, which, compared to other AI applications, has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals.
 It’s a simple but powerful idea: you describe what you want to solve in plain language, and the AI writes the code to make it happen.
-I have been experimenting with vibe coding for data analytics and interactive reporting, and for making everyday tasks easier.
+I have been experimenting with vibe coding for data analytics and interactive, digital, reporting, and for making everyday tasks easier.
 
 One example?
-Creating acronym lists for long proposals or reports.
+Creating acronym lists for long documents.
 It’s one of those thankless, time-consuming tasks that usually gets pushed to the very end of the process.
 
 With ChatGPT’s help I created a VBA Macro for Microsoft Word, which:
@@ -24,7 +24,7 @@ a\) Scans the document and generates a list of acronyms, including the page numb
 
 b\) Tracks how many times each acronym is used.
 
-The final list gets exported to a new Word document, ready for formatting or whatever comes next.
+The resulting acronym list gets exported to a new Word document, ready for formatting or whatever comes next.
 
 ### Instructions:
 
