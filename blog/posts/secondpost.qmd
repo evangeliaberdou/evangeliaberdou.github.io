@@ -1,5 +1,5 @@
 ---
-title: "Creating high-impact research with user-experience design "
+title: "High-impact research with user-experience design"
 description: "Adapting UX's pesonas/journeys approach to synthesize evidence on how gender-based survivors experience care pathways"
 author: "Evangelia"
 date: "5/21/2025"
