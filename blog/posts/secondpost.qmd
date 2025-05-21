@@ -3,30 +3,30 @@ title: "Creating high-impact research reports with user-experience design "
 description: "Adapting UX's pesonas/journeys approach to synthesize evidence on how gender-based survivors experience care pathways"
 author: "Evangelia"
 date: "5/21/2025"
-image: "pathway-GBV.jpg"
+image: "pathway-GBV-amended.jpg"
 categories:
   - design
   - research outputs
   - methodology/ies
 ---
 
-How do you synthesize and communicate research findings in a way that is **evidence-based,** **nuaced** and **emotionally resonant?** In collaboration with [Claudia Abreu-Lopes](https://www.linkedin.com/in/claudia-abreu-lopes-219344a/) and [Aparna Mukherjee](https://www.linkedin.com/in/aparna-mukherjee-56072740/) from the [International Institute for Global Health](https://unu.edu/iigh), I turned to an unlikely source for inspiration for a **study on gender-based violence**: user experience (UX) design.
-The results of the investigation —funded by [UNFPA Malaysia](https://malaysia.unfpa.org/en)—are captured in the recently published report [Portraits: Journeys of GBV Survivors across Malaysia's One Stop Crisis Centres](https://malaysia.unfpa.org/en/publications/portraits-journeys-gender-based-violence-survivors-across-malaysias-one-stop-crisis).
+How do you synthesize and communicate research findings in a way that is **evidence-based,** **nuaced** and **emotionally resonant?** In collaboration with [Claudia Abreu-Lopes](https://www.linkedin.com/in/claudia-abreu-lopes-219344a/) and [Aparna Mukherjee](https://www.linkedin.com/in/aparna-mukherjee-56072740/) from the [International Institute for Global Health](https://unu.edu/iigh), I turned to an unlikely source for inspiration for a **study on gender-based violence**: **user experience (UX) design**.
+Study results—funded by [UNFPA Malaysia](https://malaysia.unfpa.org/en)—are captured in the recently published report [Portraits: Journeys of GBV Survivors across Malaysia's One Stop Crisis Centres](https://malaysia.unfpa.org/en/publications/portraits-journeys-gender-based-violence-survivors-across-malaysias-one-stop-crisis).
 In it, we use **personas and journey maps** to bring survivor experiences to life—and make service delivery challenges more tangible.
 
 The Personas & Journeys method is rooted in UX research, where it’s commonly applied to understand how different users engage with digital products and services.
 In this project, I adapted it to trace **how GBV survivors**— **with varied backgrounds and vulnerabilities**—**navigate the care and support ecosystem**.
-We developed fictional but evidence-based profiles of survivor types and mapped their likely pathways through the system.
+We developed **fictional but evidence-based profiles of survivor types** and mapped their likely pathways through the system.
 We gathered evidence from a combination of individual semi-structured interviews and more informal conversations with both survivors and their carers.
 These findings were further enriched by insights from the relevant literature.
 These ‘portraits’ revealed not just **where gaps and barriers exist**, but also **conveyed** what those barriers ***feel*** like for those experiencing them—while also adding an extra layer of **anonymity** to primary accounts.
 The report has been well received from Malaysian organisations working on women's issues (for an example see [here](https://ova.galencentre.org/women-in-malaysia-recount-their-experiences-of-gender-based-violence-and-its-aftermath-in-un-report-part-1/)) and has been featured in national media (for an example, see [here](https://www.sinardaily.my/article/226043/focus/national/unfpa-unu-iigh-strengthen-malaysias-response-to-gender-based-violence))
 
 This approach does more than present findings in a visually engaging format.
-It creates a **reference point** for a range of actors—civil society, health providers, policy teams—who might otherwise struggle to **conceptualise whom the system is meant to serve**.
+It can create a **reference point** for a range of actors—civil society, health providers, policy teams—who might otherwise struggle to **conceptualise whom the system is meant to serve**.
 Additionally, personas and journeys can become a **touchstone** for **checking assumptions**, reflecting/debating/**validating priorities,** and understanding **different** **viewpoints**.
-In this sense, they can **complement** more traditional tools like **theories of change** (ToC) by grounding them in the l**ived experience of real people.** Like ToCs, their value increases when **revisited** at key moments throughout a programme’s lifecycle.
+In this sense, they can **complement** more traditional tools like **theories of change** (ToC) by grounding them in the lived experience of real people**.** Like ToCs, their value increases when **revisited** at key moments throughout a programme’s lifecycle.
 
-There’s real **potential** for this **approach** within **MEL** in international development.
+There’s real potential for this approach within **MEL** in international development.
 For example, **personas and journeys** can **reframe** how we conduct **needs assessments—**which often inform early programme design or evaluation but are rarely revisited.
-In a field that constantly wrestles with complexity, nuance and communication, **blending storytelling with rigorous evidence can have a powerful impact**—for both internal and external audiences.
+In a field that constantly wrestles with complexity, nuance and communication, **blending storytelling with rigorous evidence in a reusable format** can have a powerful impact—for both internal and external audiences.
