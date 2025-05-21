@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://evangeliaberdou.github.io/index.html</loc>
-    <lastmod>2025-05-20T08:36:42.705Z</lastmod>
+    <lastmod>2025-05-21T12:13:34.808Z</lastmod>
   </url>
   <url>
-    <loc>https://evangeliaberdou.github.io/blog/posts/firstpost.html</loc>
-    <lastmod>2025-05-20T08:36:42.691Z</lastmod>
+    <loc>https://evangeliaberdou.github.io/blog/posts/secondpost.html</loc>
+    <lastmod>2025-05-21T12:13:34.797Z</lastmod>
   </url>
   <url>
     <loc>https://evangeliaberdou.github.io/blog/index.html</loc>
-    <lastmod>2025-05-20T08:36:42.691Z</lastmod>
+    <lastmod>2025-05-21T12:13:34.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://evangeliaberdou.github.io/blog/posts/firstpost.html</loc>
+    <lastmod>2025-05-21T12:13:34.791Z</lastmod>
   </url>
   <url>
     <loc>https://evangeliaberdou.github.io/projects/index.html</loc>
-    <lastmod>2025-05-20T08:36:42.706Z</lastmod>
+    <lastmod>2025-05-21T12:13:34.809Z</lastmod>
   </url>
 </urlset>
