@@ -22,7 +22,7 @@ categories:
 
 A question that's been gaining momentum lately in MEL circles is whether large language models (LLMs) and general-purpose AI tools like ChatGPT can genuinely support qualitative analysis in a way that’s both robust and useful.
 
-It's not a clear-cut issue.
+clIt's not a clear-cut issue.
 Most well-known qualitative analysis software—also referred to as computer-assisted qualitative data analysis software (CAQDAS) in research circles—like NVivo, ATLAS.ti, and MAXQDA, now include AI-based features.
 
 Still, most of the current [:buzz](#x-buzz) among qualitative researchers and MEL professionals revolves around the use of general-purpose tools like ChatGPT to handle large-scale qualitative data analysis.
