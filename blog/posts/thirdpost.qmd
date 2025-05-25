@@ -142,7 +142,7 @@ And let’s face it — human-led qualitative analysis can be just as much of a 
 
 AI offers a real opportunity to change this by:
 
--   **Systematically documenting** key analytical decisions and processes
+-   **Systematically documenting** key analytical decisions and processes.
 
 -   **Enabling deeper engagement** not only with results but with often-overlooked aspects of the analysis — such as sampling decisions, research questions, codebooks, and emergent themes — that tend to be buried in annexes or footnotes.
 
