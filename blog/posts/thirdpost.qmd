@@ -1,0 +1,158 @@
+---
+title: "Using AI for Qualitative Analysis: How Good Is It, What Is It Good For, and Is It Worth the Investment?"
+description: "Understanding the strengths and limits of tools like ChatGPT for qualitative analysis and why human oversight may be more complicated than you think."
+author: "Evangelia"
+date: 2025-5-25
+
+  
+format:
+  html:
+    includes:
+      in-header: nutshell-header.html
+
+filters:
+  - nutshell
+
+image: "robot-thirdpost.jpg"
+categories:
+  - AI
+  - qualitative data analysis
+  - CAQDAS
+---
+
+A question that's been gaining momentum lately in MEL circles is whether large language models (LLMs) and general-purpose AI tools like ChatGPT can genuinely support qualitative analysis in a way that’s both robust and useful.
+
+It's not a clear-cut issue.
+Most well-known qualitative analysis software—also referred to as computer-assisted qualitative data analysis software (CAQDAS) in research circles—like NVivo, ATLAS.ti, and MAXQDA, now include AI-based features.
+
+Still, most of the current [:buzz](#x-buzz) among qualitative researchers and MEL professionals revolves around the use of general-purpose tools like ChatGPT to handle large-scale qualitative data analysis.
+
+I did not do an exhaustive review.
+I dug into the topic out of personal interest and thought others might benefit from what I found.
+Specifically:
+
+-   I prioritised recent, independent and openly accessible [:peer-reviewed](#x-grey) publications.
+-    I focused on tasks directly related to the qualitative analysis process, so I did not cover more general functions, such as transcription or translation that can speed up the analysis or writing sections for the final report or article.
+
+I am listing the articles I read at the end of the post.
+
+## :x-buzz {#x-buzz}
+
+For a more critical perspective on AI’s potential to advance science, I encourage you to read this article by [Nick McGreivy](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres).
+
+## :x-grey {#x-grey}
+
+I’m not wedded to peer-reviewed sources, but a lot of the grey literature I found was vendor-backed or lacked a solid evidence base.
+
+# Gains: What AI does well.
+
+Used appropriately, AI can be genuinely useful during the early and more routine parts of qualitative research:
+
+-   **Speed and scale**: AI works fast. One study showed a GPT model analyzing 63 UN policy documents, generating over 700 distinct codes in far less time than it would’ve taken a human team.
+-   **Summarisation**: ChatGPT is quite good at distilling long documents and highlighting key points. But, as the next section touches on, quality and accuracy can vary and need checking.
+-   **Coding**: There’s broad agreement that AI is decent at generating first-pass codes, spotting emerging themes, and seeing if they [:align](#x-align) with the research questions.
+-   **Consistency**: In one study using ChatGPT to analyze Japanese transcripts, the AI aligned with human coders more than 83% of the time—when dealing with clearly defined, descriptive content. The consistency dropped sharply for more abstract, interpretive themes.
+
+## :x-align {#x-align}
+
+As one researcher pointed out, this often comes down to the quality of the prompts humans give, not how well the AI can independently validate themes or codes.
+
+# Challenges: Machine Troubles
+
+These are the areas where AI falters:
+
+-   **Interpretive depth**: ChatGPT often stays surface-level.
+    It has trouble tying meaning to context or recognizing contradictions, irony, or cultural cues.
+    This stems both from its design limitations and sometimes from users not knowing how to guide it.
+
+-   **Quoting errors**: AI has a bad habit of fabricating or paraphrasing quotes instead of pulling them directly—risky if you don’t catch it.
+
+-   **Cultural and emotional context**: In one notable case where ChatGPT was used to analyse Japanese interview transcripts, the AI couldn’t grasp emotional themes like “fate” or “sacred moments”.
+    Agreement with humans dropped under 30%.
+    As LLMs are trained primarily on online texts, it is reasonable to expert that they will not perform equally well in less prevalent languages.
+    They would know much less about Japanese than they would know about English and the worlds these languages represent, as there are less published online Japanese texts.
+
+-   **Prompt sensitivity**: Your phrasing matters.
+    In one example, AI responses mirrored the researchers’ prompts more than the actual data—an issue of "contamination."
+
+-   **Reproducibility**: Results varied across sessions even with similar inputs.
+    While reproducibility is a human challenge too, this inconsistency raises flags.
+
+-   **Misapplication of methods**: AI sometimes distorts or simplifies established methods, especially if not carefully prompted.
+
+-   **Lack of transparency**: It’s often unclear how AI derives at its codes or themes or arrives at certain conclusions.
+    It's reasoning process is a bit of a [:black box](#x-box).
+
+-   **Ethical concerns**: Using cloud-based LLMs for sensitive data brings real risks around privacy and consent, which is why there is a growing trend for localised LLMs.
+    Token limits and memory issues were cited as bottleneck in tools like ChatGPT, but these are constantly improving.
+
+    ## :x-box {#x-box}
+
+This challenge isn’t unique to qualitative work—we don’t fully know how LLMs ‘think’ in general.
+
+# The promise of blended approaches
+
+Across the literature, the most promising approach is not replacing human analysts—but combining their strengths with AI’s efficiency.
+This involves:
+
+-   **Letting AI handle the more mechanical tasks**: Some aspects of analysis such as summation, first-level coding, and identifying patterns between themes or codes —can be sped up by AI, freeing up human attention for more nuanced work.
+-   **Human oversight and judgment throughout:**
+    -   **Design**: Humans need to provide AI with details on the context of the analysis and the preferred analytical approach, as well as step-by-step instructions on how to implement it. They need to translate, essentially, the knowledge that qualitative researchers acquire through formal training and experience into prompts and a workflow that the AI can implement. This necessitates collaboration between AI experts and qualitative researcqchers.
+    -   **Redressing biases and validating process and results:** Humans must verify that AI performs as instructed (even on mechanical tasks) and address inherent biases, such as those related to gender, race, and age, among others that are inherent to LLMs. In addition to addressing glaring errors, they need to help AI refine its approach iteratively.
+    -   **Interpretation.** The consensus is that humans are best placed when it comes to interpreting findings through theory, context, and personal experience.
+
+# Why CQDAS still matters
+
+Pre-AI CAQDAS such as NVivo, ATLAS.ti, MAXQDA have **evolved** over **decades** of **interaction** with **qualitative researchers**.
+They incorporate tacit knowledge about coding hierarchies, memoing, traceability, and collaborative workflows.
+Many now include AI features—but crucially, these are housed within systems that are already designed to support analytical rigour based on principles developed *with* social scientists—not retrofitted for them.
+I hope that their newer AI features (e.g. auto-coding in NVivo) are embedded in ways that maintain methodological integrity from the ground up: from coding hierarchies and memos to audit trails and team coding capabilities.
+
+# Final Thoughts
+
+My review suggests LLMs can help us work more efficiently, manage larger datasets, and reduce the time spent on repetitive tasks.
+The hope is that because of their limitations, LLMs are likely to replace qualitative researchers entirely.
+
+This tracks with my own experience that AI performs best when you treat it as an **inexperienced research assistant** who:
+
+-   Is helpful, quick, and surprisingly competent in some areas
+-   Requires detailed instructions and significant oversight at every step
+-   Lacks the experience and knowledge for critical, nuanced analysis.
+
+However, **training** this assistant represents a **non-trivial time investment** that is poorly understood.
+If this training can be leveraged in future projects, this initial investment would, by all means, be worthwhile.
+However, (and this is where conceptualising AI as an inexperienced assistant starts to get problematic), this assumes that:
+
+-   You will **continue to use the same analytical approach,** such as content analysis or thematic analysis and a similar workflow (how you load documents and feed AI your prompts, organise your coding, the points where you perform your checks, etc.)
+-   The **evidence base, unit and granularity of analysis for new projects will be comparable to the original one**. Will your AI, which you trained to analyse transcripts from individual interviews, perform equally well, out-of-the-box, when you ask it to analyse transcripts from focus group discussions, pod-casts, policy documents or social media posts?
+-   You will need to **redress similar biases in the LLM and the prompting**.
+-   More generally, **transferable lessons can be distinguished from project-specific instructions** over multiple cycles of iteration.
+-   Your **prompts and processes will yield similar results across updated versions of AI models,** unless you have control over model versioning or opt for local models.
+
+You can, of course, choose to use AI strategically only for certain aspects of the analysis, rather than integrating it throughout the entire analytical process.
+However, most use cases and conversations focus on the second scenario.
+
+Another complication concerns the **level at which you instruct your AI** (what AI are you dealing with).
+There’s a difference between **customising** the core operating system—**the underlying LLM**—and tweaking the user-facing app built on top of it, like a particular ChatGPT interface.
+Messing with the operating system requires technical expertise and affects everything downstream, while adjusting the app is more about user preferences and workflows.
+
+One **underexplored potential of AI** that I find particularly exciting is its role in **triangulation and validation**, and more broadly, in making qualitative analysis more **transparent**.
+Quality assurance in qualitative research is time-consuming and methodologically challenging.
+And let’s face it — human-led qualitative analysis can be just as much of a black box as AI-driven approaches.
+
+AI offers a real opportunity to change this by:
+
+-   **Systematically documenting** key analytical decisions and processes\]
+
+-   **Enabling deeper engagement** not only with results but with often-overlooked aspects of the analysis — such as sampling decisions, research questions, codebooks, and emergent themes — that tend to be buried in annexes or footnotes
+
+# Articles Reviewed
+
+1.  Bijker, R., Merkouris, S. S., Dowling, N. A., & Rodda, S. N. (2024). ChatGPT for Automated Qualitative Research: Content Analysis. Journal of Medical Internet Research, 26, e59050. https://doi.org/10.2196/59050
+2.  Hitch, D. (2024). Artificial Intelligence Augmented Qualitative Analysis: The Way of the Future? Qualitative Health Research, 34(7), 595–606. https://doi.org/10.1177/10497323231217392
+3.  Kondo, T., Miyachi, J., Jönsson, A., & Nishigori, H. (2024). A mixed-methods study comparing human-led and ChatGPT-driven qualitative analysis in medical education research (No. 4). Nagoya University Graduate School of Medicine, School of Medicine. https://doi.org/10.18999/nagjms.86.4.620
+4.  Mayring, P. (2025). Qualitative Content Analysis With ChatGPT: Pitfalls, Rough Approximations and Gross Errors. A Field Report. Forum: Qualitative Social Research/Qualitative Sozialforschung, 26(1). https://www.qualitative-research.net/index.php/fqs/article/download/4252/5159?inline=1
+5.  Paoli, S. D. (2024). Further Explorations on the Use of Large Language Models for Thematic Analysis: Open-Ended Prompts, Better Terminologies and Thematic Maps. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, 25(3), Article 3. https://doi.org/10.17169/fqs-25.3.4196
+6.  Sakaguchi, K., Sakama, R., & Watari, T. (2025). Evaluating ChatGPT in Qualitative Thematic Analysis With Human Researchers in the Japanese Clinical Context and Its Cultural Interpretation Challenges: Comparative Qualitative Study. Journal of Medical Internet Research, 27, e71521. https://doi.org/10.2196/71521
+7.  Şen, M., Şen, Ş. N., & Şahin, T. G. (2023). A New Era for Data Analysis in Qualitative Research: ChatGPT! Shanlax International Journal of Education, 11(S1-Oct), 1–15. https://doi.org/10.34293/education.v11iS1-Oct.6683
+8.  Turobov, A., Coyle, D., & Harding, V. (2024). Using ChatGPT for Thematic Analysis (No. arXiv:2405.08828). arXiv. https://doi.org/10.48550/arXiv.2405.08828

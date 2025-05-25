@@ -2,7 +2,7 @@
 title: "Impactful research with user-experience design"
 description: "Adapting UX's pesonas/journeys approach to synthesize evidence on how gender-based violence survivors experience care pathways"
 author: "Evangelia"
-date: "5/21/2025"
+date: 2025-5-21
 image: "pathway-GBV-amended.jpg"
 categories:
   - design
@@ -11,7 +11,8 @@ categories:
   - needs assessment
 ---
 
-How do you synthesize and communicate research findings in a way that is **evidence-based,** **nuaced** and **emotionally resonant?** In collaboration with [Claudia Abreu-Lopes](https://www.linkedin.com/in/claudia-abreu-lopes-219344a/) and [Aparna Mukherjee](https://www.linkedin.com/in/aparna-mukherjee-56072740/) from the [International Institute for Global Health](https://unu.edu/iigh), I turned to an unlikely source for inspiration for a **study on gender-based violence**: **user experience (UX) design**.
+How do you synthesize and communicate research findings in a way that is **evidence-based,** **nuaced** and **emotionally resonant?** In collaboration with [Claudia Abreu-Lopes](https://www.linkedin.com/in/claudia-abreu-lopes-219344a/) and [Aparna Mukherjee](https://www.linkedin.com/in/aparna-mukherjee-56072740/) from the [Inte](https://unu.edu/iigh)git add .
+git commit -m "amended title-second post"[rnational Institute for Global Health](https://unu.edu/iigh), I turned to an unlikely source for inspiration for a **study on gender-based violence**: **user experience (UX) design**.
 Study results—funded by [UNFPA Malaysia](https://malaysia.unfpa.org/en)—are captured in the recently published report [Portraits: Journeys of GBV Survivors across Malaysia's One Stop Crisis Centres](https://malaysia.unfpa.org/en/publications/portraits-journeys-gender-based-violence-survivors-across-malaysias-one-stop-crisis).
 In it, we use **personas and journey maps** to bring survivor experiences to life—and make service delivery challenges more tangible.
 
