@@ -86,7 +86,7 @@ These are the areas where AI falters:
 -   **Ethical concerns**: Using cloud-based LLMs for sensitive data brings real risks around privacy and consent, which is why there is a growing trend for localised LLMs.
     Token limits and memory issues were cited as bottleneck in tools like ChatGPT, but these are constantly improving.
 
-    ## :x-box {#x-box}
+## :x-box {#x-box}
 
 This challenge isn’t unique to qualitative work—we don’t fully know how LLMs ‘think’ in general.
 
