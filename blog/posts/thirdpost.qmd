@@ -27,12 +27,12 @@ Most well-known qualitative analysis software—also referred to as computer-ass
 
 Still, most of the current [:buzz](#x-buzz) among qualitative researchers and MEL professionals revolves around the use of general-purpose tools like ChatGPT to handle large-scale qualitative data analysis.
 
-I did not do an exhaustive review.
 I researched the topic out of personal interest and thought others might benefit from what I found.
 Specifically:
 
 -   I prioritised recent, independent and openly accessible [:peer-reviewed](#x-grey) publications.
 -   I focused on tasks directly related to the qualitative analysis process, so I did not cover more general functions, such as transcription or translation that can speed up the analysis or writing.
+-   Although I enjoy experimenting with new tools, including AI, I am writing this primarily from the perspective of a social scientist.
 
 I am listing the articles I read at the end of the post.
 
@@ -44,7 +44,7 @@ For a more critical perspective on AI’s potential to advance science, I encour
 
 I’m not wedded to peer-reviewed sources, but a lot of the grey literature I found was vendor-backed or lacked a solid evidence base.
 
-# Gains: What AI does well.
+# Gains: What AI Does Well
 
 Used appropriately, AI can be genuinely useful during the early and more routine parts of qualitative research:
 
@@ -90,7 +90,7 @@ These are the areas where AI falters:
 
 This challenge isn’t unique to qualitative work—we don’t fully know how LLMs ‘think’ in general.
 
-# The promise of blended approaches
+# Emerging Consensus: Hybrid AI-Human Models Work Best
 
 Across the literature, the most promising approach is not replacing human analysts—but combining their strengths with AI’s efficiency.
 This involves:
@@ -108,7 +108,7 @@ They incorporate tacit knowledge about coding hierarchies, memoing, traceability
 Many now include AI features—but crucially, these are meant to housed within systems that are already designed to support analytical rigour based on principles developed *with* social scientists—not retrofitted for them.
 I hope that their newer AI features (e.g. auto-coding in NVivo) are embedded in ways that maintain methodological integrity from the ground up: from coding hierarchies and memos to audit trails and team coding capabilities.
 
-# Practical Caveats for Investment
+# Caveats for Investment: Hidden Efficiency Costs
 
 My review suggests LLMs can help us work more efficiently, manage larger datasets, and reduce the time spent on repetitive tasks.
 The hope is that because of their limitations, LLMs are likely to replace qualitative researchers entirely.
