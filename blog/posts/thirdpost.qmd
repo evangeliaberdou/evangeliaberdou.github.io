@@ -78,7 +78,7 @@ These are the areas where AI falters:
 -   **Reproducibility**: Results varied across sessions even with similar inputs.
     While reproducibility is a human challenge too, this inconsistency raises flags.
 
--   **Misapplication of methods**: AI sometimes distorts or simplifies established methods, especially if not carefully prompted.
+-   **Misapplication of qualitative data analysis methods**: AI sometimes distorts or simplifies established methods, especially if not carefully prompted.
 
 -   **Lack of transparency**: It’s often unclear how AI derives at its codes or themes or arrives at certain conclusions.
     It's reasoning process is a bit of a [:black box](#x-box).
@@ -97,8 +97,7 @@ This involves:
 
 -   **Letting AI handle the more mechanical tasks**: Some aspects of analysis such as summation, first-level coding, and identifying patterns between themes or codes —can be sped up by AI, freeing up human attention for more nuanced work.
 -   **Human oversight and judgment throughout:**
-    -   **Design**: Humans need to provide AI with details on the context of the analysis and the preferred analytical approach, as well as step-by-step instructions on how to implement it. They need to translate, essentially, the knowledge that qualitative researchers acquire through formal training and experience into prompts and
-    -    workflow that the AI can implement. This necessitates collaboration between AI experts and qualitative researchers.
+    -   **Design**: Humans need to provide AI with details on the context of the analysis and the preferred analytical approach, as well as step-by-step instructions on how to implement it. They need to translate, essentially, the knowledge that qualitative researchers acquire through formal training and experience into prompts and workflow that the AI can implement. This necessitates collaboration between AI experts and qualitative researchers.
     -   **Redressing biases and validating process and results:** Humans must verify that AI performs as instructed (even on mechanical tasks) and address inherent biases, such as those related to gender, race, and age, among others that are inherent to LLMs. In addition to addressing glaring errors, they need to help AI refine its approach iteratively.
     -   **Interpretation.** The consensus is that humans are best placed when it comes to interpreting findings through theory, context, and personal experience.
 
