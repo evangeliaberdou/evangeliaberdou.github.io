@@ -107,7 +107,7 @@ I am sharing them to provide a sense of what aspects of AI's behaviour can be [:
 #### **Search & Research:**
 
 -   Use web search for current events, prices, or rapidly changing topics
--   Use multiple sources of information when I asked you to research something
+-   Use multiple sources of information when I ask you to research something
 -   Avoid searching for stable, well-established facts you already know
 
 #### **Output Structure:**
