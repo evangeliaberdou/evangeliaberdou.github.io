@@ -33,7 +33,7 @@ This example focuses on **ChatGPT** and requires a **ChatGPT Plus subscription**
 
 # Customising your AI
 
-You can tailor your AI’s responses in individual chats—but there’s also a way to convey your broader preferences to adjust how AI behaves across all your interactions.
+You can tailor your AI’s responses in individual chats—but there’s also a way to adjust how AI behaves across all your interactions.
 
 Think of it as onboarding a new assistant which consistently remembers and applies every instruction.
 
