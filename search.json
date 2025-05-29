@@ -77,11 +77,25 @@
     "text": ":x-instructions\nIf you are curious you can download the full-version  here"
   },
   {
+    "objectID": "blog/posts/fourthpost.html#x-themes",
+    "href": "blog/posts/fourthpost.html#x-themes",
+    "title": "Human to the rescue: Customising your AI",
+    "section": ":x-themes",
+    "text": ":x-themes\nI use themes to better organise my preferences. As far as I can tell theme headings do not impact AI’s behaviour."
+  },
+  {
     "objectID": "blog/posts/fourthpost.html#x-settings",
     "href": "blog/posts/fourthpost.html#x-settings",
     "title": "Human to the rescue: Customising your AI",
     "section": ":x-settings",
-    "text": ":x-settings\n\nWhere to input your preferences in ChatGPT\n\nAssuming you have a ChatGPT Plus subscription, click your account icon (top-right corner) and select Customize ChatGPT as shown by the blue arrow in the screenshot below.\n\nPaste your preferences into’What traits should ChatGPT have’ field.\nIf you run into the character limit under, move some of the text to another field within the Customised ChatGPT window, like Other things that ChatGPT should know about you.\nWhile you are at it, consider reviewing your privacy settings (if you have not done so already). Most AI tools allow you to control whether your interactions are used to train the model. If you’re dealing with sensitive or proprietary data, it’s best to disable data sharing\nIn ChatGPT go to Settings &gt; Data Controls and ensure that the option Improve the Model for everyone is OFF.\n\nIf you are using a different platform (e.g. Claude, Gemini) and you cannot locate these settings, ask your AI. As far as I know, Microsoft CoPilot doesn’t offer similar user-facing options."
+    "text": ":x-settings\n\nWhere to input your preferences in ChatGPT\n\nAssuming you have a ChatGPT Plus subscription, click your account icon (top-right corner) and select Customize ChatGPT as shown by the blue arrow in the screenshot below.\n\nPaste your preferences into the ‘What traits should ChatGPT have’ field.\nIf you run into the character limit, move some of the text to another field within the Customised ChatGPT window, like Other things that ChatGPT should know about you.\nIf you are using a different platform (e.g. Claude, Gemini) and you cannot locate these settings, ask your AI. As far as I know, Microsoft CoPilot doesn’t offer similar user-facing customising options.\nWhile you are at it, consider reviewing your privacy settings (if you have not done so already). Most AI tools allow you to control whether the information you share is used to train the model. If you’re dealing with sensitive or proprietary data, it’s best to disable data sharing\nTo do this go to Settings &gt; Data Controls and ensure that the option Improve the Model for everyone is OFF."
+  },
+  {
+    "objectID": "blog/posts/fourthpost.html#x-tweak",
+    "href": "blog/posts/fourthpost.html#x-tweak",
+    "title": "Human to the rescue: Customising your AI",
+    "section": ":x-tweak",
+    "text": ":x-tweak\nI’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through a multiple prompts. While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way."
   },
   {
     "objectID": "blog/posts/secondpost.html",
