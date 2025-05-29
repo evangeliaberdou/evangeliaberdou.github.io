@@ -95,7 +95,7 @@
     "href": "blog/posts/fourthpost.html#x-tweak",
     "title": "Human to the rescue: Customising your AI",
     "section": ":x-tweak",
-    "text": ":x-tweak\nI’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through a multiple prompts. While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way."
+    "text": ":x-tweak\nI’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through multiple prompts. While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way."
   },
   {
     "objectID": "blog/posts/secondpost.html",
