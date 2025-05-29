@@ -22,7 +22,7 @@ categories:
 ------------------------------------------------------------------------
 
 We've all been there.
-You assign AI a task, only to receive response that's either too generic, lacking empirical backing, or in a format that's hard to reuse and edit for further work.
+You assign AI a task, only to receive a response that's either too generic, lacks empirical backing, or is in a format that's hard to reuse and edit for further work.
 
 The good news?
 **You don’t need to be a programmer to get better results from AI**.
