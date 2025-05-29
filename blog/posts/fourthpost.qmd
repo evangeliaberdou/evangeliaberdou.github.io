@@ -19,8 +19,10 @@ categories:
   - ChatGPT Plus
 ---
 
+------------------------------------------------------------------------
+
 We've all been there.
-You assign task to an AI, only to receive response that's either too generic, lacking empirical backing, or in a format that's hard to reuse and edit for further work.
+You assign AI a task, only to receive response that's either too generic, lacking empirical backing, or in a format that's hard to reuse and edit for further work.
 
 The good news?
 **You don’t need to be a programmer to get better results from AI**.
@@ -34,6 +36,8 @@ This example focuses on **ChatGPT** and requires a **ChatGPT Plus subscription**
 # Changing how your AI behaves across your chats
 
 You can tailor your AI’s responses in individual chats—but there’s also a way to adjust how AI behaves across all your interactions.
+
+q
 
 Think of it as onboarding a new assistant which consistently remembers and applies every instruction.
 
@@ -127,8 +131,8 @@ I am sharing them to provide a sense of what aspects of AI's behaviour can be [:
 
 ## :x-tweak {#x-tweak}
 
-I’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through a multiple prompts. While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way.
-
+I’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through a multiple prompts.
+While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way.
 
 # The bigger picture
 
