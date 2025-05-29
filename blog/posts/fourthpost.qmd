@@ -129,7 +129,7 @@ I am sharing them to provide a sense of what aspects of AI's behaviour can be [:
 
 ## :x-tweak {#x-tweak}
 
-I’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through a multiple prompts.
+I’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through multiple prompts.
 While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way.
 
 # The bigger picture
