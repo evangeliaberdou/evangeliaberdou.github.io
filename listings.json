@@ -6,6 +6,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/fourthpost.html",
       "/blog/posts/thirdpost.html",
       "/blog/posts/secondpost.html",
       "/blog/posts/firstpost.html"

@@ -49,18 +49,39 @@
     "text": ":x-box\nThis challenge isn’t unique to qualitative work—we don’t fully know how LLMs ‘think’ in general."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Using AI for Qualitative Analysis: How Good Is It, What Is It Good For, and Is It Worth the Investment?\n\n\n\n\n\nUnderstanding the strengths and limits of tools like ChatGPT for qualitative analysis and why human oversight may be more complicated than you think.\n\n\n\n\n\nMay 25, 2025\n\n\nEvangelia\n\n\n\n\n\n\n\n\n\n\n\n\nImpactful research with user-experience design\n\n\n\n\n\nAdapting UX’s pesonas/journeys approach to synthesize evidence on how gender-based violence survivors experience care pathways\n\n\n\n\n\nMay 21, 2025\n\n\nEvangelia\n\n\n\n\n\n\n\n\n\n\n\n\nAI to the rescue: Creating a list of acronyms\n\n\n\n\n\nDeveloping a Word VBA script to generate a list of acronyms \n\n\n\n\n\nMay 17, 2025\n\n\nEvangelia\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "blog/posts/firstpost.html",
     "href": "blog/posts/firstpost.html",
     "title": "AI to the rescue: Creating a list of acronyms",
     "section": "",
     "text": "Vibe coding  is an emerging trend in AI-supported software development, which, compared to other AI applications, has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals. It’s a simple but powerful idea: you describe what you want to solve in plain language, and the AI writes the code to make it happen. I have been experimenting with vibe coding for data analytics and interactive, digital, reporting, and for making everyday tasks easier.\nOne example? Creating acronym lists for long documents. It’s one of those thankless, time-consuming tasks that usually gets pushed to the very end of the process.\nWith ChatGPT’s help I created a VBA Macro for Microsoft Word, which:\na) Scans the document and generates a list of acronyms, including the page number where each first appears;\nb) Tracks how many times each acronym is used.\nThe resulting acronym list gets exported to a new Word document, ready for formatting or whatever comes next.\n\nInstructions:\n\nCopy the  VBA macro \nMake sure your document is open and editable.\nOpen the Visual Basic Editor (tip: type in ‘vba’ in the search bar in Word).\nIn the editor go to Insert &gt; Module.\n\nPaste the VBA code into the new module window.\nClick outside the module and go to Run &gt; Run Macro.\n\nIn the pop-up, select ExtractAcronymsWithPages and hit Run.\n\nIf everything runs smoothly, Word will generate a new document with the compiled acronym list.\nNote that there is a setting in the code that allows you to exclude certain words: just add them inside the double quotes in ignoreList = Array(\" \").\nI’ve tested the macro on both Windows and Mac versions of Word—it works great on both. I hope you find it useful."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Human to the rescue: Customising your AI\n\n\n\n\n\nAdjusting your AI’s settings to optimise its performance \n\n\n\n\n\nMay 29, 2025\n\n\nEvangelia\n\n\n\n\n\n\n\n\n\n\n\n\nUsing AI for Qualitative Analysis: How Good Is It, What Is It Good For, and Is It Worth the Investment?\n\n\n\n\n\nUnderstanding the strengths and limits of tools like ChatGPT for qualitative analysis and why human oversight may be more complicated than you think.\n\n\n\n\n\nMay 25, 2025\n\n\nEvangelia\n\n\n\n\n\n\n\n\n\n\n\n\nImpactful research with user-experience design\n\n\n\n\n\nAdapting UX’s pesonas/journeys approach to synthesize evidence on how gender-based violence survivors experience care pathways\n\n\n\n\n\nMay 21, 2025\n\n\nEvangelia\n\n\n\n\n\n\n\n\n\n\n\n\nAI to the rescue: Creating a list of acronyms\n\n\n\n\n\nDeveloping a Word VBA script to generate a list of acronyms \n\n\n\n\n\nMay 17, 2025\n\n\nEvangelia\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/fourthpost.html",
+    "href": "blog/posts/fourthpost.html",
+    "title": "Human to the rescue: Customising your AI",
+    "section": "",
+    "text": "We’ve all been there. You assign task to an AI, only to receive response that’s either too generic, lacking empirical backing, or in a format that’s hard to reuse and edit for further work.\nThe good news? You don’t need to be a programmer to get better results from AI.\nBy customising the settings in your chosen AI platform, you can save time, minimise frustration, and obtain better results.\nIt just takes a moment to think through your needs, phrase them in a way the AI understands, and plug them into your AI’s settings.\nThis example focuses on ChatGPT and requires a ChatGPT Plus subscription, though the general approach applies to other mainstream AI platforms like Gemini and Claude (though I haven’t confirmed if these options are available in their free versions)."
+  },
+  {
+    "objectID": "blog/posts/fourthpost.html#x-instructions",
+    "href": "blog/posts/fourthpost.html#x-instructions",
+    "title": "Human to the rescue: Customising your AI",
+    "section": ":x-instructions",
+    "text": ":x-instructions\nIf you are curious you can download the full-version  here"
+  },
+  {
+    "objectID": "blog/posts/fourthpost.html#x-settings",
+    "href": "blog/posts/fourthpost.html#x-settings",
+    "title": "Human to the rescue: Customising your AI",
+    "section": ":x-settings",
+    "text": ":x-settings\n\nWhere to input your preferences in ChatGPT\n\nAssuming you have a ChatGPT Plus subscription, click your account icon (top-right corner) and select Customize ChatGPT as shown by the blue arrow in the screenshot below.\n\nPaste your preferences into’What traits should ChatGPT have’ field.\nIf you run into the character limit under, move some of the text to another field within the Customised ChatGPT window, like Other things that ChatGPT should know about you.\nWhile you are at it, consider reviewing your privacy settings (if you have not done so already). Most AI tools allow you to control whether your interactions are used to train the model. If you’re dealing with sensitive or proprietary data, it’s best to disable data sharing\nIn ChatGPT go to Settings &gt; Data Controls and ensure that the option Improve the Model for everyone is OFF.\n\nIf you are using a different platform (e.g. Claude, Gemini) and you cannot locate these settings, ask your AI. As far as I know, Microsoft CoPilot doesn’t offer similar user-facing options."
   },
   {
     "objectID": "blog/posts/secondpost.html",
