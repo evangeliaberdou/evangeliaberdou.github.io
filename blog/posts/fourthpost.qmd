@@ -25,13 +25,13 @@ You assign task to an AI, only to receive response that's either too generic, la
 The good news?
 **You don’t need to be a programmer to get better results from AI**.
 
-By customising the settings in your chosen AI platform, you can save time, minimise frustration, and obtain better results.
+By customising the relevant settings in your chosen AI platform, you can save time, minimise frustration, and obtain better results.
 
 It just takes a moment to think through your needs, phrase them in a way the AI understands, and plug them into your AI's settings.
 
 This example focuses on **ChatGPT** and requires a **ChatGPT Plus subscription**, though the general approach applies to other mainstream AI platforms like Gemini and Claude (though I haven’t confirmed if these options are available in their free versions).
 
-# Customising your AI
+# Changing how your AI behaves across your chats
 
 You can tailor your AI’s responses in individual chats—but there’s also a way to adjust how AI behaves across all your interactions.
 
@@ -74,7 +74,7 @@ As far as I can tell theme headings do not impact AI's behaviour.
 
 # My customisation parameters
 
-These customisation instructions reflect my personal preferences and will not work for everyone.
+These instructions reflect my personal preferences and will not work for everyone.
 I am sharing them to provide a sense of what aspects of AI's behaviour can be [:tweaked](#x-tweak) and as a template to be adapted.
 
 #### **Communication Style:**
@@ -130,7 +130,7 @@ I am sharing them to provide a sense of what aspects of AI's behaviour can be [:
 I’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through a multiple prompts. While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way.
 
 
-# The Bigger Picture
+# The bigger picture
 
 As with human communication, **the more clearly you state your expectations, the better your AI will perform.**
 
@@ -144,7 +144,7 @@ For example:
 **It is important to remember that customisation doesn’t make your AI foolproof.** It can still hallucinate, so you'll need to fact-check and adjust outputs.
 But it does help produce results that are more aligned with your expectations and workflow—making the AI a bit more reliable, overall.
 
-# The Next Step: Organising Your Interactions with Projects
+# The next step: organising your interactions with projects
 
 These adjustments establish a solid foundation for enhancing AI output quality and better integrating it into your workflow.
 That said, **there are additional improvements you can explore** which do not require coding.
