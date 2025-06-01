@@ -33,6 +33,8 @@ It just takes a moment to think through your needs, phrase them in a way the AI 
 
 This example focuses on **ChatGPT** and requires a **ChatGPT Plus subscription**, though the general approach applies to other mainstream AI platforms like Gemini and Claude (though I haven’t confirmed if these options are available in their free versions).
 
+> *If you don't have a paid subscription, you can still adjust how the AI behaves by pasting your instructions into a chat-or uploading them as an attachment. However, you'd need to remember to do this for each new chat.*
+
 # Changing how your AI behaves across your chats
 
 You can tailor your AI’s responses in individual chats—but there’s also a way to adjust how AI behaves across all your interactions.
