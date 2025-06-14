@@ -7,11 +7,11 @@
     "text": "Welcome! I’m a senior consultant with over 15 years of experience in Monitoring, Evaluation Research and Learning (MERL) in international development.\nI’m an advocate of mixed methods research and enjoy weaving together ethnographic insights with passive and secondary quantitative data to improve understanding of behaviours, outcomes and impact. I believe in using routine program data to its fullest and turning to primary research strategically to fill key knowledge gaps.\nI use cutting edge analytical tools such as PowerBI and leverage design thinking to create products and services that are engaging, reusable and of value to multiple stakeholders throughout and beyond the duration of a project.\nFor more details you can download my CV.\nI use this site to share lessons and insights from past and present work.\nYou can reach me at: evangeliaberdou[at]gmail.com."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "blog/posts/secondpost.html",
+    "href": "blog/posts/secondpost.html",
+    "title": "Impactful research with user-experience design",
     "section": "",
-    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "How do you synthesize and communicate research findings in a way that is evidence-based, nuaced and emotionally resonant? In collaboration with Claudia Abreu-Lopes and Aparna Mukherjee from the Integit add . git commit -m “amended title-second post”rnational Institute for Global Health, I turned to an unlikely source for inspiration for a study on gender-based violence: user experience (UX) design. Study results—funded by UNFPA Malaysia—are captured in the recently published report Portraits: Journeys of GBV Survivors across Malaysia’s One Stop Crisis Centres. In it, we use personas and journey maps to bring survivor experiences to life—and make service delivery challenges more tangible.\nThe Personas & Journeys method is rooted in UX research, where it’s commonly applied to understand how different users engage with digital products and services. In this project, I adapted it to trace how GBV survivors— with varied backgrounds and vulnerabilities—navigate the care and support ecosystem. We developed fictional but evidence-based profiles of survivor types and mapped their likely pathways through the system. We gathered evidence from a combination of individual semi-structured interviews and more informal conversations with both survivors and their carers. These findings were further enriched by insights from the relevant literature. These ‘portraits’ revealed not just where gaps and barriers exist, but also conveyed what those barriers feel like for those experiencing them—while also adding an extra layer of anonymity to primary accounts. The report has been well received from Malaysian organisations working on women’s issues (for an example see here) and has been featured in national media (for an example, see here)\nThis approach does more than present findings in a visually engaging format. It can create a reference point for a range of actors—civil society, health providers, policy teams—who might otherwise struggle to conceptualise whom the system is meant to serve. Additionally, personas and journeys can become a touchstone for checking assumptions, reflecting/debating/validating priorities, and understanding differing viewpoints. In this sense, they can complement more traditional tools like theories of change (ToC) by grounding them in the lived experience of real people. Like ToC, their value increases when revisited at key moments throughout a programme’s lifecycle.\nThere’s real potential for this approach within MEL in international development. For example, personas and journey maps can reframe how we conduct needs assessments—which often inform early stages of programme design or evaluation but are rarely revisited. In a field that constantly wrestles with complexity, nuance and communication, blending storytelling with rigorous evidence in a reusable format can have a powerful impact for internal and external audiences alike."
   },
   {
     "objectID": "blog/posts/thirdpost.html",
@@ -49,11 +49,46 @@
     "text": ":x-box\nThis challenge isn’t unique to qualitative work—we don’t fully know how LLMs ‘think’ in general."
   },
   {
-    "objectID": "blog/posts/firstpost.html",
-    "href": "blog/posts/firstpost.html",
-    "title": "AI to the rescue: Creating a list of acronyms",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "Vibe coding  is an emerging trend in AI-supported software development, which, compared to other AI applications, has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals. It’s a simple but powerful idea: you describe what you want to solve in plain language, and the AI writes the code to make it happen. I have been experimenting with vibe coding for data analytics and interactive, digital, reporting, and for making everyday tasks easier.\nOne example? Creating acronym lists for long documents. It’s one of those thankless, time-consuming tasks that usually gets pushed to the very end of the process.\nWith ChatGPT’s help I created a VBA Macro for Microsoft Word, which:\na) Scans the document and generates a list of acronyms, including the page number where each first appears;\nb) Tracks how many times each acronym is used.\nThe resulting acronym list gets exported to a new Word document, ready for formatting or whatever comes next.\n\nInstructions:\n\nCopy the  VBA macro \nMake sure your document is open and editable.\nOpen the Visual Basic Editor (tip: type in ‘vba’ in the search bar in Word).\nIn the editor go to Insert &gt; Module.\n\nPaste the VBA code into the new module window.\nClick outside the module and go to Run &gt; Run Macro.\n\nIn the pop-up, select ExtractAcronymsWithPages and hit Run.\n\nIf everything runs smoothly, Word will generate a new document with the compiled acronym list.\nNote that there is a setting in the code that allows you to exclude certain words: just add them inside the double quotes in ignoreList = Array(\" \").\nI’ve tested the macro on both Windows and Mac versions of Word—it works great on both. I hope you find it useful."
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "Nutshell: Expandable Explanations",
+    "section": "",
+    "text": "Nutshell is a tool to make “expandable explanations”, like this! This lets your readers learn only the details they need, just-in-time, always-in-context.\nUnlike links, Nutshell lets you include only the snippet you need, not the whole page. Plus, instead of being lost in a jungle of new tabs, your reader stays on one page, keeping their flow of reading. Even if you interrupt a sentence, Nutshell recaps the sentence afterwards, so your reader never loses context.\nYou can find more information on the nutshell webpage"
+  },
+  {
+    "objectID": "example.html#what-is-nutshell",
+    "href": "example.html#what-is-nutshell",
+    "title": "Nutshell: Expandable Explanations",
+    "section": "",
+    "text": "Nutshell is a tool to make “expandable explanations”, like this! This lets your readers learn only the details they need, just-in-time, always-in-context.\nUnlike links, Nutshell lets you include only the snippet you need, not the whole page. Plus, instead of being lost in a jungle of new tabs, your reader stays on one page, keeping their flow of reading. Even if you interrupt a sentence, Nutshell recaps the sentence afterwards, so your reader never loses context.\nYou can find more information on the nutshell webpage"
+  },
+  {
+    "objectID": "example.html#test",
+    "href": "example.html#test",
+    "title": "Nutshell: Expandable Explanations",
+    "section": "Test",
+    "text": "Test\nThis is a senseless paragraph"
+  },
+  {
+    "objectID": "example.html#testing-links",
+    "href": "example.html#testing-links",
+    "title": "Nutshell: Expandable Explanations",
+    "section": "Testing Links",
+    "text": "Testing Links\n\n:link to senseless paragraph\n\n:link to wikipedia article\n:link to invisible sections"
+  },
+  {
+    "objectID": "example.html#x-invisible",
+    "href": "example.html#x-invisible",
+    "title": "Nutshell: Expandable Explanations",
+    "section": ":x invisible",
+    "text": ":x invisible\nUse ## :x header to include an invisible secion that can be linked to via nutshell"
   },
   {
     "objectID": "blog/index.html",
@@ -98,45 +133,10 @@
     "text": ":x-tweak\nI’ve attempted to address common AI limitations—such as responding to vague or nonsensical queries, or making overconfident claims with little evidence—through multiple prompts. While this approach appears to work reasonably well on the surface, I haven’t assessed its effectiveness in a systematic way."
   },
   {
-    "objectID": "blog/posts/secondpost.html",
-    "href": "blog/posts/secondpost.html",
-    "title": "Impactful research with user-experience design",
+    "objectID": "blog/posts/firstpost.html",
+    "href": "blog/posts/firstpost.html",
+    "title": "AI to the rescue: Creating a list of acronyms",
     "section": "",
-    "text": "How do you synthesize and communicate research findings in a way that is evidence-based, nuaced and emotionally resonant? In collaboration with Claudia Abreu-Lopes and Aparna Mukherjee from the Integit add . git commit -m “amended title-second post”rnational Institute for Global Health, I turned to an unlikely source for inspiration for a study on gender-based violence: user experience (UX) design. Study results—funded by UNFPA Malaysia—are captured in the recently published report Portraits: Journeys of GBV Survivors across Malaysia’s One Stop Crisis Centres. In it, we use personas and journey maps to bring survivor experiences to life—and make service delivery challenges more tangible.\nThe Personas & Journeys method is rooted in UX research, where it’s commonly applied to understand how different users engage with digital products and services. In this project, I adapted it to trace how GBV survivors— with varied backgrounds and vulnerabilities—navigate the care and support ecosystem. We developed fictional but evidence-based profiles of survivor types and mapped their likely pathways through the system. We gathered evidence from a combination of individual semi-structured interviews and more informal conversations with both survivors and their carers. These findings were further enriched by insights from the relevant literature. These ‘portraits’ revealed not just where gaps and barriers exist, but also conveyed what those barriers feel like for those experiencing them—while also adding an extra layer of anonymity to primary accounts. The report has been well received from Malaysian organisations working on women’s issues (for an example see here) and has been featured in national media (for an example, see here)\nThis approach does more than present findings in a visually engaging format. It can create a reference point for a range of actors—civil society, health providers, policy teams—who might otherwise struggle to conceptualise whom the system is meant to serve. Additionally, personas and journeys can become a touchstone for checking assumptions, reflecting/debating/validating priorities, and understanding differing viewpoints. In this sense, they can complement more traditional tools like theories of change (ToC) by grounding them in the lived experience of real people. Like ToC, their value increases when revisited at key moments throughout a programme’s lifecycle.\nThere’s real potential for this approach within MEL in international development. For example, personas and journey maps can reframe how we conduct needs assessments—which often inform early stages of programme design or evaluation but are rarely revisited. In a field that constantly wrestles with complexity, nuance and communication, blending storytelling with rigorous evidence in a reusable format can have a powerful impact for internal and external audiences alike."
-  },
-  {
-    "objectID": "example.html",
-    "href": "example.html",
-    "title": "Nutshell: Expandable Explanations",
-    "section": "",
-    "text": "Nutshell is a tool to make “expandable explanations”, like this! This lets your readers learn only the details they need, just-in-time, always-in-context.\nUnlike links, Nutshell lets you include only the snippet you need, not the whole page. Plus, instead of being lost in a jungle of new tabs, your reader stays on one page, keeping their flow of reading. Even if you interrupt a sentence, Nutshell recaps the sentence afterwards, so your reader never loses context.\nYou can find more information on the nutshell webpage"
-  },
-  {
-    "objectID": "example.html#what-is-nutshell",
-    "href": "example.html#what-is-nutshell",
-    "title": "Nutshell: Expandable Explanations",
-    "section": "",
-    "text": "Nutshell is a tool to make “expandable explanations”, like this! This lets your readers learn only the details they need, just-in-time, always-in-context.\nUnlike links, Nutshell lets you include only the snippet you need, not the whole page. Plus, instead of being lost in a jungle of new tabs, your reader stays on one page, keeping their flow of reading. Even if you interrupt a sentence, Nutshell recaps the sentence afterwards, so your reader never loses context.\nYou can find more information on the nutshell webpage"
-  },
-  {
-    "objectID": "example.html#test",
-    "href": "example.html#test",
-    "title": "Nutshell: Expandable Explanations",
-    "section": "Test",
-    "text": "Test\nThis is a senseless paragraph"
-  },
-  {
-    "objectID": "example.html#testing-links",
-    "href": "example.html#testing-links",
-    "title": "Nutshell: Expandable Explanations",
-    "section": "Testing Links",
-    "text": "Testing Links\n\n:link to senseless paragraph\n\n:link to wikipedia article\n:link to invisible sections"
-  },
-  {
-    "objectID": "example.html#x-invisible",
-    "href": "example.html#x-invisible",
-    "title": "Nutshell: Expandable Explanations",
-    "section": ":x invisible",
-    "text": ":x invisible\nUse ## :x header to include an invisible secion that can be linked to via nutshell"
+    "text": "Vibe coding  is an emerging trend in AI-supported software development, which, compared to other AI applications, has received little attention from Monitoring Evaluation Research and Learning (MERL) professionals. It’s a simple but powerful idea: you describe what you want to solve in plain language, and the AI writes the code to make it happen. I have been experimenting with vibe coding for data analytics and interactive, digital, reporting, and for making everyday tasks easier.\nOne example? Creating acronym lists for long documents. It’s one of those thankless, time-consuming tasks that usually gets pushed to the very end of the process.\nWith ChatGPT’s help I created a VBA Macro for Microsoft Word, which:\na) Scans the document and generates a list of acronyms, including the page number where each first appears;\nb) Tracks how many times each acronym is used.\nThe resulting acronym list gets exported to a new Word document, ready for formatting or whatever comes next.\n\nInstructions:\n\nCopy the  VBA macro \nMake sure your document is open and editable.\nOpen the Visual Basic Editor (tip: type in ‘vba’ in the search bar in Word).\nIn the editor go to Insert &gt; Module.\n\nPaste the VBA code into the new module window.\nClick outside the module and go to Run &gt; Run Macro.\n\nIn the pop-up, select ExtractAcronymsWithPages and hit Run.\n\nIf everything runs smoothly, Word will generate a new document with the compiled acronym list.\nNote that there is a setting in the code that allows you to exclude certain words: just add them inside the double quotes in ignoreList = Array(\" \").\nI’ve tested the macro on both Windows and Mac versions of Word—it works great on both. I hope you find it useful."
   }
 ]
