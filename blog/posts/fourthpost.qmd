@@ -46,7 +46,7 @@ For guidance on where the appropriate settings are located click [:here](#x-sett
 
 ## :x-instructions {#x-instructions}
 
-If you are curious you can download the full-version <a href="../assets/ChatGPT-settings-EVBE.rtf" target="_blank"> here </a>
+If you are curious you can download the full-version <a href="../assets/ChatGPT-settings-EVBE.rtf" target="_blank"> here </a>.
 
 ## :x-themes {#x-themes}
 
@@ -80,6 +80,7 @@ As far as I can tell theme headings do not impact AI's behaviour.
 
 These instructions reflect my personal preferences and will not work for everyone.
 I am sharing them to provide a sense of what aspects of AI's behaviour can be [:tweaked](#x-tweak) and as a template to be adapted.
+I urge you to also check out Nicola's Sahar's [prompt](https://www.linkedin.com/posts/nicolasahar_openais-sycophancy-problem-has-a-solution-activity-7338915229063360515-ODOC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADFtIsBIrvA_4kF64XBswQ-I3Q_s1mg9t4) which focuses on truthfulness.
 
 #### **Communication Style:**
 
