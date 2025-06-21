@@ -20,6 +20,7 @@ format:
   html:
     linkcolor: "#D65211"
     mainfont: "Aptos Sans"
-    fontsize: 15px
+    fontsize: 15x
+    linestretch: 1.5
     theme: [flatly, styles.scss]
 

@@ -17,7 +17,7 @@ about:
 Welcome!
 I'm a senior consultant with over 15 years of experience in monitoring, evaluation research and learning (MERL) in international development.
 
-I am an expert on how digital tools and, more recently, AI can enhance MEL practice, collaboration, productivity and service delivery.
+I am an expert on how digital tools and, more recently AI, can enhance MEL practice, collaboration, productivity and service delivery.
 I have advised on, designed and delivered MEL systems that can genuinely support decision-making and adaptation.
 I believe MEL should provide lasting value to different stakeholders and have found that it works best when it leverages existing data flows, automates routine tasks, and creates space for analysis, reflection and discussion both for short-term adjustments and more strategic changes.\
 
