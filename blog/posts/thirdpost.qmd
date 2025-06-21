@@ -42,7 +42,7 @@ For a more critical perspective on AI’s potential to advance science, I encour
 
 ## :x-grey {#x-grey}
 
-I’m not wedded to peer-reviewed sources, but a lot of the grey literature I found was vendor-backed or lacked a solid evidence base.
+I’m not wedded to peer-reviewed sources, but a lot of the grey literature I found was vendor-backed or anecdotal in nature.
 
 # Gains: What AI Does Well
 
@@ -111,12 +111,12 @@ I hope that their newer AI features (e.g. auto-coding in NVivo) are embedded in 
 # Caveats for Investment: Hidden Efficiency Costs
 
 My review suggests LLMs can help us work more efficiently, manage larger datasets, and reduce the time spent on repetitive tasks.
-The hope is that because of their limitations, LLMs are likely to replace qualitative researchers entirely.
+The hope is that because of their limitations, LLMs are not likely to replace human researchers.
 
 This tracks with my own experience that AI performs best when you treat it as an **inexperienced research assistant** who:
 
--   Is helpful, quick, and surprisingly competent in some areas
--   Requires detailed instructions and significant oversight at every step
+-   Is helpful, quick, and surprisingly competent in some areas;
+-   Requires detailed instructions and significant oversight at every step;
 -   Lacks the experience and knowledge for critical, nuanced analysis.
 
 However, **training** this assistant represents a **non-trivial time investment** that is poorly understood.
